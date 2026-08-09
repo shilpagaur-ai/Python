@@ -89,6 +89,8 @@ else:
 # 7-6. Three Exits: Write different versions of either Exercise 7-4 or Exercise 7-5 that do each of the following at least once:
 # • Use a conditional test in the while statement to stop the loop.
 
+# Here the goal is to actually see the age in the loop which I did not do earlier
+
 age = ""
 
 while age.lower() != "quit":
